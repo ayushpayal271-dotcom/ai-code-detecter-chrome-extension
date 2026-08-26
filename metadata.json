@@ -1,0 +1,6 @@
+{
+  "name": "AI Code Detector Chrome Extension",
+  "description": "AI-generated code detector Chrome extension suite with real-time heuristic & LLM analysis, simulator, live browser inspection overlay, and downloadable Manifest V3 extension package.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
